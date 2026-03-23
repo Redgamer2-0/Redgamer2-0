@@ -1,4 +1,4 @@
-#Hi there, I'm redWare()
+Hi there, I'm redWare()
 
 I'm a silly artist who likes to move twigs about with a fair interest in creating cool stuff with code
 
